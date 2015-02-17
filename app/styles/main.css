@@ -8358,6 +8358,7 @@ body {
 }
 .box img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box .title {
   margin-bottom: 10px;
@@ -8374,6 +8375,7 @@ body {
 }
 .box-blue img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box-blue .title {
   margin-bottom: 10px;
@@ -8390,6 +8392,7 @@ body {
 }
 .box-orange img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box-orange .title {
   margin-bottom: 10px;
@@ -8406,6 +8409,7 @@ body {
 }
 .box-lightblue img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box-lightblue .title {
   margin-bottom: 10px;
@@ -8422,6 +8426,7 @@ body {
 }
 .box-purple img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box-purple .title {
   margin-bottom: 10px;
@@ -8438,14 +8443,11 @@ body {
 }
 .box-red img {
   max-height: 100px;
+  max-width: 150px;
 }
 .box-red .title {
   margin-bottom: 10px;
   font-size: 20px;
   font-weight: bold;
-}
-.box-red img {
-  margin-top: 14px;
-  max-width: 150px;
 }
 /*# sourceMappingURL=/styles/main.css.map */
