@@ -8365,6 +8365,27 @@ body {
   font-size: 20px;
   font-weight: bold;
 }
+.box-trello {
+  margin-bottom: 50px;
+  padding: 20px 50px 20px 50px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: lightgrey;
+  background-color: #cfc8cb;
+  color: #4b4b4b;
+}
+.box-trello img {
+  max-height: 100px;
+  max-width: 150px;
+}
+.box-trello .title {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.box-trello img {
+  padding-top: 15px;
+}
 .box-blue {
   margin-bottom: 50px;
   padding: 20px 50px 20px 50px;
